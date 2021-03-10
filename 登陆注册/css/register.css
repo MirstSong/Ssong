@@ -1,0 +1,76 @@
+.LOG_header {
+	padding: 50px 0 0 50px;
+}
+.LOG_mainer{
+	margin: 100px 30px;
+}
+.LOG_mainer .tel{
+	display: flex;
+	align-items: center;
+	justify-content: left;
+	border-bottom: 1px solid #9A9A9AFF;
+	padding-bottom: 30px;
+}
+.LOG_mainer .tel span{
+	font-size: 38px;
+	font-weight: 800;
+	padding-right:10px ;
+	color: #000000;
+}
+.LOG_mainer .tel  img{
+	width: 30px;
+	height: 25px;
+	
+}
+.LOG_mainer .tel p{
+	padding-left: 30px;
+}
+.LOG_mainer .tel,.code p{
+	font-size: 30px;
+	font-weight: 400;
+	color:#9A9A9AFF ;
+	
+}
+ .LOG_mainer .code{
+	 display: flex;
+	 justify-content: space-between;
+	 margin-top: 50px;
+	 border-bottom: 1px solid #9A9A9AFF;
+	 padding-bottom: 50px;
+ }
+  .LOG_mainer .code a{
+	  text-decoration: none;
+	  font-size: 30px;
+	  font-weight: 400;
+	  color: #1F50AEFF;
+  }
+   .LOG_middle{
+	    text-align: center;
+   }
+  .LOG_middle div{
+	  margin: 0 auto;
+	  width: 90%;
+	  background-color: #1E50AEFF;
+	  color: white; 
+	  border-radius: 40px;
+	  font-size: 40px;
+	  height: 80px;
+	  line-height: 80px;
+	  margin-bottom: 30px;
+  }
+   .LOG_middle p{
+	   font-size: 23px;
+	   color:#9A9A9AFF ;
+   }
+   .LOG_foot{
+	   text-align: center;
+	  position: fixed;
+	  left: 50%;
+	  bottom: 88px;
+	  transform: translate(-50%);
+   }
+   .LOG_foot p{
+	   font-size: 30px;
+	   margin-bottom: 20px;
+	   margin-bottom: 50px;
+   }

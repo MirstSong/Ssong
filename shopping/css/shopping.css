@@ -1,0 +1,122 @@
+.headerinpt {
+	text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+}
+.middle {
+	background-color:#F5F5F7FF ;
+	height: 90vh;
+	padding: 25px;
+}
+.kuang{
+	margin-top: 100px;
+}
+
+
+.kuang li{
+	display: flex;
+	justify-content:end;
+	background-color:white;
+	padding: 20px;
+	border-radius: 20px;
+	margin-top: 20px;
+}
+.money{
+	color: #0000FF;
+	display: flex;
+	justify-content:space-between;
+}
+
+
+.left{
+	display: flex;
+	align-items:center;
+}
+.left input{
+	    width: 30px;
+	    height: 30px;
+		margin-right: 25px
+}
+.left input {
+	padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.inp{
+	width:20%;
+	display: flex;
+	justify-content:center;
+}
+.right{
+	margin-left: 30px;
+}
+.right h1{
+	font-size:30px;
+	font-weight: 400;
+	margin-bottom: 30px;
+}
+.right li{
+	width: 40%;
+	border: 0.5px solid #ccc;
+	padding: 5px;
+	border-radius:0;
+}
+.right p{
+	display:inline-block;
+	font-size:16px;
+	font-weight: 200;
+	color: #666666FF;
+	margin-bottom: 30px;
+	padding: 10px;
+	background: #CCCCCC;
+}
+
+.shop-foot {
+	display: flex;
+	justify-content:center;
+	margin-bottom: 80px;
+}
+.shop_left{
+	width: 70%;
+}
+.shop_left{
+	display: flex;
+}
+.ziti div:nth-child(1){
+	font-size:30px;
+	font-weight:700;
+}
+.ziti div:nth-child(2){
+	margin-top: 20px;
+	font-size:25px;
+	font-weight: 300;
+	color: #cccc;
+}
+
+.aaaa{
+	    width: 30px;
+	    height: 30px;
+	    margin: 10px 30px 0 20px;
+}
+.shop_right{
+	width: 30%;
+	text-align: center;
+	background-color: #0000FF;
+	height: 85px;
+}
+.shop_right p{
+		font-size:40px;
+	  color: white;
+	  line-height:86px;
+}
+

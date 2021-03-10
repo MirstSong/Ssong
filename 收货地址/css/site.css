@@ -1,0 +1,77 @@
+.site_header{
+	display: flex;
+	justify-content:space-between;
+	margin-top: 30px;
+	padding:0 30px 30px 30px;
+	border-bottom: 1px solid #0000002E;
+}
+.site_header img{
+	transform: rotate(180deg);
+}
+.site_header  p{
+	font-size: 40px;
+	font-weight: bold;
+	
+}
+
+.mine{
+	height:90vh;
+	background-color:#F5F5F7FF;
+	padding-top:1px;
+}
+
+.site_mindle{
+	margin: 30px 10px;
+}
+.site_body {
+	font-size:30px;
+	color: #000000FF;
+	font-weight: 500;
+	background-color: white;
+	padding:40px;
+}
+
+.site_body .tele{
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 30px;
+}
+.site_body .dizhi{
+	margin-bottom: 30px;
+}
+.site_body .dizhi  p{
+	border-bottom: 1px solid #EDEDEDFF;
+	padding-bottom:20px;
+}
+.site_body .delet{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.site_body .delet input{
+	width: 25px;
+	height: 25px;
+}
+
+
+
+/* foot */
+.site_foot {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height:100px;
+	width:100%;
+	background-color: #1E50AEFF;
+	color: white;
+	font-size: 30px;
+	position: absolute;
+	bottom: 0;
+}
+.site_foot img{
+	width: 30px;
+	height: 30px;
+}
+.site_foot p{
+	padding: 0 30px;
+}

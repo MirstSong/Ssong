@@ -1,0 +1,137 @@
+
+
+/* 导航栏 */
+
+.middle{
+	padding: 100px 0;
+}
+.bannerimg img{
+	width:100%;
+	height: 400px;
+}
+.bannernav{
+	display: flex;
+	justify-content:center;
+	margin-top:-30px;
+}
+.bannernav li{
+	width: 20px;
+	height: 10px;
+	background-color: blue;
+	margin: 0 10px;
+	cursor: pointer;
+	border-radius: 20px;
+}
+.headerinpt input{
+           background:url(../../img/搜索.png) no-repeat;
+		   background-size:9%;
+		   background-position:10px 5px;
+}
+.main{
+	margin-top: 20px;
+}
+.main a{
+	text-decoration: none;
+}
+.main ul{
+	display: flex;
+	flex-wrap: wrap;
+    justify-content: space-evenly;
+	
+}
+.main li{
+	width: 18%;
+	text-align: center;
+	margin-top: 20px;
+}
+.main p{
+	margin-top: 20px;
+	font-size: 18px;
+	color: #000000;
+	font-weight: bold;
+}
+.gap {
+	margin-top:40px;
+	width: 100%;
+	height:15px;
+    background: #F5F5F7;
+}
+.news p img{
+	width: 40px;
+	height: 40px;
+	margin:30px;
+}
+.news {
+	height:60px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content:space-around;
+	font-size: 28px;
+}
+.news  h2,h3{
+	line-height:100px;
+	font-weight: 100;
+	color: #666666FF;
+}
+.news h2{
+	width: 550px;
+}
+.newpeople{
+	display: flex;
+	flex-wrap: wrap;
+    justify-content:space-around;
+}
+.newpeople div{
+	padding: 15px 0;
+	width: 50%;
+}
+.newpeople div:nth-child(2){
+	border-left:1px solid  #666666FF;
+}
+.newpeople div h1{
+	float: left;
+	line-height: 100px;
+	font-size: 28px;
+	font-weight: bold;
+	margin: 0 50px;
+}
+.gap-foot{
+	margin-bottom:40px;
+	width: 100%;
+	height:15px;
+	background: #F5F5F7;
+}
+.main-title{
+	display: flex;
+	justify-content:center;
+}
+.main-title p{
+	text-align: center;
+	width: 200px;
+	font-weight: bold;
+	font-size: 30px;
+}
+.main-news{
+	font-size: 28px;
+	font-weight: bold;
+	text-align: left;
+}
+.main-news ul{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+}
+.main-news li{
+	width: 45%;
+	margin: 20px 10px;
+}
+.main-news p{
+	margin: 20px 0;
+}
+.main-news a{
+	text-decoration: none;
+}
+.main-load {
+	text-align: center;
+	margin: 30px 0;
+}
